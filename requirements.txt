@@ -1,1 +1,13 @@
-streamlit>=1.26.0
+streamlit==1.54.0
+pandas
+numpy
+matplotlib
+plotly
+openpyxl
+seaborn>=0.13.0
+plotly>=5.22.0
+altair>=5.2.0
+scipy>=1.13.0
+pillow>=10.3.0
+psutil
+pytz
